@@ -1,4 +1,4 @@
-# nokia-x2-multibootloader-kernel-binaries
+# Nokia X2 Multibootloader Kernel Binaries
 Kernels for Nokia X2 Multibootloader  
   
 HOW TO:  
